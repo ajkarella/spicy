@@ -6,4 +6,4 @@ python compiler based off this [guide](https://medium.com/@marcelogdeandrade/wri
 ocaml compiler guide [here](https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/)
 
 
-Create shell with history that autocompletes when typing, and saves commands to a log. start [here](https://medium.com/@winfrednginakilonzo/guide-to-code-a-simple-shell-in-c-bd4a3a4c41cd)
+Create shell with history that autocompletes when typing, and saves commands to a log. start [here](https://medium.com/@winfrednginakilonzo/guide-to-code-a-simple-shell-in-c-bd4a3a4c41cd) or here for an easier shell [with c++](https://gamedevacademy.org/c-shell-tutorial-complete-guide/)
